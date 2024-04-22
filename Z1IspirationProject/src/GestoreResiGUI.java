@@ -16,7 +16,7 @@ public class GestoreResiGUI extends JFrame {
         this.ordini = ordini;
 
         setTitle("Gestore Resi");
-        setSize(400, 300);
+        setSize(600,300);
         setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         setLayout(new BorderLayout());
 
